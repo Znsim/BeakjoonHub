@@ -11,7 +11,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&theme=radical)  
+![Repo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&repo=baekjoon&theme=radical)
 
 
 ## 📂 Repository Info
