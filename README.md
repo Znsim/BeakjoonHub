@@ -12,9 +12,7 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znsim&layout=compact&theme=radical)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Znsim&show_icons=true&theme=radical)
 
----
 
 ## 📂 Repository Info
 이 저장소는 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)를 이용해 자동으로 푼 문제 코드가 업로드됩니다.
